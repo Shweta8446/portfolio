@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+.navbar{
+    height:70px;
+    width:1550px;
+    background-color:rgb(35, 35, 93);
+color:white;
+display: flex;
+/* justify-content:space-evenly; */
+/* text-align: center; */
+}
+.navbar a{
+    text-decoration: none;
+    margin-top: 25px;
+    color:white;
+    margin-left:250px;
+    font-size: 20px;
+    margin-left: 80px;
+    
+}
+.body{
+    color: white;
+    font-size: x-large;
+    margin-left: 75px;
+    margin-top: 200px;
+}
+.con{
+    width:200px;
+    height:40px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+.pho{
+    width:200px;
+    height:150px;
+    /* background-color:blue; */
+    margin-left: 150px;
+    margin-top:60px;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 10px;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.8Zp45AsqMtfeF9VKhH2G2wHaE8&pid=Api&P=0&h=220");
+
+}
+.para{
+    height:250px;
+    width:400px;
+    margin-left:230px;
+
+}
+.dev{
+    height:200px;
+    width:300px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content:center ; */
+}
+.htm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.para p{
+    font-size: 19px;
+    color:white;
+}
+
+.para h1{
+    margin-bottom:3px;
+
+}
+
+.sh{
+    width:500px;
+    height:350px;
+
+    margin-left:800px;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.Zd4KVccJVPQBc_9cNE9A-wHaE8&pid=Api&P=0&h=220");
+    background-size: cover;
+}
+
+.info{
+    margin-left: 100px;
+}
